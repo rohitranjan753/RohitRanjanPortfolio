@@ -1037,7 +1037,7 @@ table{
   padding: 5px;
 }
 th{
-  font-size: 18px;
+  font-size: 1rem;
   justify-content: center;
   border:1px solid var(--other-color);
   padding: 20px;
@@ -1048,3 +1048,4 @@ td{
   border:1px solid var(--other-color);
   padding: 20px;
 }
+
