@@ -1030,3 +1030,21 @@ h4 {
     font-size: 1.3rem;
   }
 }
+
+table{
+  text-align: center;
+  border:1px solid white;
+  padding: 5px;
+}
+th{
+  font-size: 18px;
+  justify-content: center;
+  border:1px solid var(--other-color);
+  padding: 20px;
+}
+td{
+  
+  justify-content: center;
+  border:1px solid var(--other-color);
+  padding: 20px;
+}
